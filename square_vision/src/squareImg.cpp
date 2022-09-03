@@ -41,6 +41,7 @@ SquareDetector::SquareDetector():
     destination.upleftPoint.x=-1;
     destination.upleftPoint.y=-1;
     destination.downrightPoint.x=-1;
+    destination.downrightPoint.y=-1;
     destination.center.x=-1;
     destination.center.y=-1;
     destination.valid=false;
